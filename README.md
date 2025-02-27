@@ -30,7 +30,6 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - [OCR](#OCR)
 - [NeRF](#NeRF)
 - [DETR](#DETR)
-- [Prompt](#Prompt)
 - [扩散模型(Diffusion Models)](#Diffusion)
 - [ReID(重识别)](#ReID)
 - [长尾分布(Long-Tail)](#Long-Tail)
