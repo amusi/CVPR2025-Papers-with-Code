@@ -187,7 +187,10 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 
 # 扩散模型(Diffusion Models)
 
+**TinyFusion: Diffusion Transformers Learned Shallow**
 
+- Paper: https://arxiv.org/abs/2412.01199
+- Code: https://github.com/VainF/TinyFusion
 
 <a name="Vision-Transformer"></a>
 
@@ -205,6 +208,11 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 
 # 目标检测(Object Detection)
 
+
+**LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models**
+
+- Paper: https://arxiv.org/abs/2501.18954
+- Code：https://github.com/iSEE-Laboratory/LLMDet
 
 
 <a name="Anomaly-Detection"></a>
