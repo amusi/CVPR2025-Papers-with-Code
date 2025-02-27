@@ -225,7 +225,10 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 
 # 目标跟踪(Object Tracking)
 
+**Multiple Object Tracking as ID Prediction**
 
+- Paper：https://arxiv.org/abs/2403.16848
+- Code: https://github.com/MCG-NJU/MOTIP
 
 
 <a name="MI"></a>
@@ -252,7 +255,6 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 # 3D目标检测(3D Object Detection)
 
 
-- Paper: https://arxiv.org/abs/2402.18573
 
 <a name="3DOD"></a>
 
