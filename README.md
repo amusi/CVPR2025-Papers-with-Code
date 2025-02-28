@@ -69,6 +69,7 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - [3D生成(3D Generation)](#3D-Generation)
 - [视频理解(Video Understanding)](#Video-Understanding)
 - [行为检测(Action Detection)](#Action-Detection)
+- [具身智能(Embodied AI)](#Embodied)
 - [文本检测(Text Detection)](#Text-Detection)
 - [知识蒸馏(Knowledge Distillation)](#KD)
 - [模型剪枝(Model Pruning)](#Pruning)
@@ -85,7 +86,9 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - [Zero-Shot Learning(零样本学习)](#ZSL)
 - [立体匹配(Stereo Matching)](#Stereo-Matching)
 - [特征匹配(Feature Matching)](#Feature-Matching)
+- [暗光图像增强(Low-light Image Enhancement)](#Low-light)
 - [场景图生成(Scene Graph Generation)](#SGG)
+- [风格迁移(Style Transfer)](#ST)
 - [隐式神经表示(Implicit Neural Representations)](#INR)
 - [图像质量评价(Image Quality Assessment)](#IQA)
 - [视频质量评价(Video Quality Assessment)](#Video-Quality-Assessment)
@@ -164,7 +167,10 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 
 # 多模态大语言模型(MLLM)
 
+**LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences**
 
+- Paper： https://arxiv.org/abs/2412.01292
+- Code: https://github.com/Hoyyyaard/LSceneLLM
 
 <a name="LLM"></a>
 
@@ -244,6 +250,13 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 <a name="Autonomous-Driving"></a>
 
 # 自动驾驶(Autonomous Driving)
+
+**LiMoE: Mixture of LiDAR Representation Learners from Automotive Scenes**
+
+- Project: https://ldkong.com/LiMoE
+- Paper: https://arxiv.org/abs/2501.04004
+- Code: https://github.com/Xiangxu-0103/LiMoE
+
 
 
 # 3D点云(3D-Point-Cloud)
@@ -327,6 +340,13 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - Code: https://github.com/ByteFlow-AI/TokenFlow
 - Paper:https://arxiv.org/abs/2412.03069
 
+**PAR: Parallelized Autoregressive Visual Generation**
+
+- Project: https://epiphqny.github.io/PAR-project/
+- Paper: https://arxiv.org/abs/2412.15119
+- Code: https://github.com/Epiphqny/PAR
+
+
 <a name="Video-Generation"></a>
 
 # 视频生成(Video Generation)
@@ -347,6 +367,11 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - Paper: https://arxiv.org/abs/2501.10021
 - Code: https://github.com/bytedance/X-Dyna
 
+**PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation**
+
+- Paper: https://arxiv.org/pdf/2412.00596
+- Code: https://github.com/pittisl/PhyT2V
+
 
 <a name="3D-Generation"></a>
 
@@ -357,6 +382,16 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 <a name="Video-Understanding"></a>
 
 # 视频理解(Video Understanding)
+
+<a name="Embodied"></a>
+
+# 具身智能(Embodied AI)
+
+**Universal Actions for Enhanced Embodied Foundation Models**
+
+- Project: https://2toinf.github.io/UniAct/
+- Paper: https://arxiv.org/abs/2501.10105
+- Code: https://github.com/2toinf/UniAct
 
 
 
@@ -371,6 +406,17 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 # 立体匹配(Stereo Matching)
 
 
+<a name="Low-light"></a>
+
+# 暗光图像增强(Low-light Image Enhancement)
+
+
+**HVI: A New color space for Low-light Image Enhancement**
+
+- Paper: https://arxiv.org/abs/2502.20272
+- Code: https://github.com/Fediory/HVI-CIDNet
+- Demo: https://huggingface.co/spaces/Fediory/HVI-CIDNet_Low-light-Image-Enhancement_
+
 
 <a name="SGG"></a>
 
@@ -378,9 +424,21 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 
 
 
+<a name="ST"></a>
+
+# 风格迁移(Style Transfer)
+
+**StyleStudio: Text-Driven Style Transfer with Selective Control of Style Elements**
+
+- Project: https://stylestudio-official.github.io/
+- Paper: https://arxiv.org/abs/2412.08503
+- Code: https://github.com/Westlake-AGI-Lab/StyleStudio
+
+
 <a name="Video-Quality-Assessment"></a>
 
 # 视频质量评价(Video Quality Assessment)
+
 
 
 <a name="Datasets"></a>
