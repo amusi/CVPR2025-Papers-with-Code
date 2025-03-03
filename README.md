@@ -172,6 +172,13 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - Paper： https://arxiv.org/abs/2412.01292
 - Code: https://github.com/Hoyyyaard/LSceneLLM
 
+
+**DynRefer: Delving into Region-level Multimodal Tasks via Dynamic Resolution**
+
+- Paper: https://arxiv.org/abs/2405.16071
+- Code: https://github.com/callsys/DynRefer
+
+
 <a name="LLM"></a>
 
 # 大语言模型(LLM)
@@ -373,9 +380,24 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - Code: https://github.com/pittisl/PhyT2V
 
 
+**Timestep Embedding Tells: It's Time to Cache for Video Diffusion Model**
+
+- Project: https://liewfeng.github.io/TeaCache/
+- Paper: https://arxiv.org/abs/2411.19108
+- Code: https://github.com/ali-vilab/TeaCache
+
+
+
 <a name="3D-Generation"></a>
 
 # 3D生成
+
+
+**Generative Gaussian Splatting for Unbounded 3D City Generation**
+
+- Project: https://haozhexie.com/project/gaussian-city
+- Paper: https://arxiv.org/abs/2406.06526
+- Code: https://github.com/hzxie/GaussianCity
 
 
 
@@ -399,11 +421,33 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 
 # 知识蒸馏(Knowledge Distillation)
 
+<a name="Depth-Estimation"></a>
+
+
+# 深度估计(Depth Estimation)
+
+**DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos**
+
+- Project: https://depthcrafter.github.io
+- Paper: https://arxiv.org/abs/2409.02095
+- Code: https://github.com/Tencent/DepthCrafter
+
+
+**MonSter: Marry Monodepth to Stereo Unleashes Power**
+
+- Paper: https://arxiv.org/abs/2501.08643
+- Code: https://github.com/Junda24/MonSter
+
 
 
 <a name="Stereo-Matching"></a>
 
 # 立体匹配(Stereo Matching)
+
+**MonSter: Marry Monodepth to Stereo Unleashes Power**
+
+- Paper: https://arxiv.org/abs/2501.08643
+- Code: https://github.com/Junda24/MonSter
 
 
 <a name="Low-light"></a>
