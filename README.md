@@ -137,6 +137,12 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 
 # Embodied AI
 
+**CityWalker: Learning Embodied Urban Navigation from Web-Scale Videos**
+
+- Project: https://ai4ce.github.io/CityWalker/
+- Paper: https://arxiv.org/abs/2411.17820
+- Code: https://github.com/ai4ce/CityWalker
+
 
 <a name="GAN"></a>
 
@@ -193,6 +199,11 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 <a name="ReID"></a>
 
 # ReID(重识别)
+
+**From Poses to Identity: Training-Free Person Re-Identification via Feature Centralization**
+
+- Paper: https://arxiv.org/abs/2503.00938
+- Code: https://github.com/yuanc3/Pose2ID
 
 
 
@@ -354,6 +365,14 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - Code: https://github.com/Epiphqny/PAR
 
 
+**Generative Photography: Scene-Consistent Camera Control for Realistic Text-to-Image Synthesis**
+
+- Project: https://generative-photography.github.io/project/
+- Paper: https://arxiv.org/abs/2412.02168
+- Code: https://github.com/pandayuanyu/generative-photography
+
+
+
 <a name="Video-Generation"></a>
 
 # 视频生成(Video Generation)
@@ -390,7 +409,7 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 
 <a name="3D-Generation"></a>
 
-# 3D生成
+# 3D生成(3D Generation)
 
 
 **Generative Gaussian Splatting for Unbounded 3D City Generation**
@@ -399,7 +418,14 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - Paper: https://arxiv.org/abs/2406.06526
 - Code: https://github.com/hzxie/GaussianCity
 
+<a name="3D-Reconstruction"></a>
 
+# 3D重建(3D Reconstruction)
+
+**Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass**
+
+- Project: https://fast3r-3d.github.io/
+- Paper: https://arxiv.org/abs/2501.13928
 
 <a name="Video-Understanding"></a>
 
@@ -461,6 +487,10 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - Code: https://github.com/Fediory/HVI-CIDNet
 - Demo: https://huggingface.co/spaces/Fediory/HVI-CIDNet_Low-light-Image-Enhancement_
 
+**ReDDiT: Efficient Diffusion as Low Light Enhancer**
+
+- Paper: https://arxiv.org/abs/2410.12346
+- Code: https://github.com/lgz-0713/ReDDiT
 
 <a name="SGG"></a>
 
