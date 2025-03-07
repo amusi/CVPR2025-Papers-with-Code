@@ -185,6 +185,13 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - Code: https://github.com/callsys/DynRefer
 
 
+**Retrieval-Augmented Personalization for Multimodal Large Language Models**
+
+- Project Page: https://hoar012.github.io/RAP-Project/
+- Paper: https://arxiv.org/abs/2410.13360
+- Code: https://github.com/Hoar012/RAP-MLLM
+
+
 <a name="LLM"></a>
 
 # 大语言模型(LLM)
@@ -204,6 +211,12 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 
 - Paper: https://arxiv.org/abs/2503.00938
 - Code: https://github.com/yuanc3/Pose2ID
+
+
+AirRoom: Objects Matter in Room Reidentification
+
+- Project: https://sairlab.org/airroom/
+- Paper: https://arxiv.org/abs/2503.01130
 
 
 
@@ -418,6 +431,13 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - Paper: https://arxiv.org/abs/2406.06526
 - Code: https://github.com/hzxie/GaussianCity
 
+**StdGEN: Semantic-Decomposed 3D Character Generation from Single Images**
+
+- Project: https://stdgen.github.io/
+- Paper: https://arxiv.org/abs/2411.05738
+- Code: https://github.com/hyz317/StdGEN
+
+
 <a name="3D-Reconstruction"></a>
 
 # 3D重建(3D Reconstruction)
@@ -426,6 +446,17 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 
 - Project: https://fast3r-3d.github.io/
 - Paper: https://arxiv.org/abs/2501.13928
+
+
+<a name="HMG"></a>
+
+# 人体运动生成(Human Motion Generation)
+
+**SemGeoMo: Dynamic Contextual Human Motion Generation with Semantic and Geometric Guidance**
+
+- Project: https://4dvlab.github.io/project_page/semgeomo/
+- Paper: https://arxiv.org/abs/2503.01291
+- https://github.com/4DVLab/SemGeoMo
 
 <a name="Video-Understanding"></a>
 
