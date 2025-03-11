@@ -239,6 +239,11 @@ AirRoom: Objects Matter in Room Reidentification
 
 # 视觉和语言(Vision-Language)
 
+**NLPrompt: Noise-Label Prompt Learning for Vision-Language Models**
+
+- Paper: https://arxiv.org/abs/2412.01256
+- Code: https://github.com/qunovo/NLPrompt
+
 
 
 <a name="Object-Detection"></a>
@@ -266,6 +271,11 @@ AirRoom: Objects Matter in Room Reidentification
 
 - Paper：https://arxiv.org/abs/2403.16848
 - Code: https://github.com/MCG-NJU/MOTIP
+
+**Omnidirectional Multi-Object Tracking**
+
+- Paper:https://arxiv.org/abs/2503.04565
+- Code:https://github.com/xifen523/OmniTrack
 
 
 <a name="MI"></a>
@@ -304,19 +314,6 @@ AirRoom: Objects Matter in Room Reidentification
 
 # 3D语义分割(3D Semantic Segmentation)
 
-<a name="Image-Editing"></a>
-
-# 图像编辑(Image Editing)
-
-**Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing**
-
-- Paper: https://arxiv.org/abs/2411.16832
-- Code: https://github.com/taco-group/FaceLock
-
-
-<a name="Video-Editing"></a>
-
-# 视频编辑(Video Editing)
 
 
 
@@ -419,6 +416,34 @@ AirRoom: Objects Matter in Room Reidentification
 - Code: https://github.com/ali-vilab/TeaCache
 
 
+**AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion**
+
+- Project: https://iva-mzsun.github.io/AR-Diffusion
+- Paper: https://arxiv.org/abs/2503.07418
+- Code: https://github.com/iva-mzsun/AR-Diffusion
+
+
+<a name="Image-Editing"></a>
+
+# 图像编辑(Image Editing)
+
+**Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing**
+
+- Paper: https://arxiv.org/abs/2411.16832
+- Code: https://github.com/taco-group/FaceLock
+
+
+**h-Edit: Effective and Flexible Diffusion-Based Editing via Doob’s h-Transform**
+
+- Paper: https://arxiv.org/abs/2503.02187
+- Code: https://github.com/nktoan/h-edit
+
+
+<a name="Video-Editing"></a>
+
+# 视频编辑(Video Editing)
+
+
 
 <a name="3D-Generation"></a>
 
@@ -461,6 +486,11 @@ AirRoom: Objects Matter in Room Reidentification
 <a name="Video-Understanding"></a>
 
 # 视频理解(Video Understanding)
+
+**Temporal Grounding Videos like Flipping Manga**
+
+- Paper: https://arxiv.org/abs/2411.10332
+- Code: https://github.com/yongliang-wu/NumPro
 
 <a name="Embodied"></a>
 
