@@ -114,7 +114,10 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 
 # CLIP
 
+**Alpha-CLIP: A CLIP Model Focusing on Wherever You Want**
 
+- Paper: https://arxiv.org/abs/2312.03818
+- Code: https://github.com/SunzeY
 
 <a name="Mamba"></a>
 
