@@ -462,7 +462,6 @@ AirRoom: Objects Matter in Room Reidentification
 - Paper: https://arxiv.org/abs/2411.05738
 - Code: https://github.com/hyz317/StdGEN
 
-
 <a name="3D-Reconstruction"></a>
 
 # 3D重建(3D Reconstruction)
@@ -580,7 +579,10 @@ AirRoom: Objects Matter in Room Reidentification
 
 # 数据集(Datasets)
 
+**Objaverse++, Curated 3D Object Dataset with Quality Annotations**
 
+- Paper: https://arxiv.org/abs/2504.07334
+- Code: https://github.com/TCXX/ObjaversePlusPlus
 
 
 <a name="Others"></a>
