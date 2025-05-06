@@ -17,6 +17,7 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 # 【CVPR 2025 论文开源目录】
 
 - [3DGS(Gaussian Splatting)](#3DGS)
+- [Agent)](#Agent)
 - [Avatars](#Avatars)
 - [Backbone](#Backbone)
 - [CLIP](#CLIP)
@@ -92,6 +93,7 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - [隐式神经表示(Implicit Neural Representations)](#INR)
 - [图像质量评价(Image Quality Assessment)](#IQA)
 - [视频质量评价(Video Quality Assessment)](#Video-Quality-Assessment)
+- [压缩感知(Compressive Sensing)](#CS)
 - [数据集(Datasets)](#Datasets)
 - [新任务(New Tasks)](#New-Tasks)
 - [其他(Others)](#Others)
@@ -101,6 +103,14 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 # 3DGS(Gaussian Splatting)
 
 
+<a name="Agent"></a>
+
+# Agent
+
+**SpiritSight Agent: Advanced GUI Agent with One Look**
+
+- Paper: https://arxiv.org/abs/2503.03196
+- Code: https://hzhiyuan.github.io/SpiritSight-Agent
 
 
 <a name="Avatars"></a>
@@ -110,6 +120,10 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 
 # Backbone
 
+**Building Vision Models upon Heat Conduction**
+
+- Paper: https://arxiv.org/abs/2405.16555
+- Code: https://github.com/MzeroMiko/vHeat
 
 
 <a name="CLIP"></a>
@@ -132,6 +146,11 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 
 - Paper: https://arxiv.org/abs/2411.15941
 - Code: https://github.com/lewandofskee/MobileMamba
+
+**MambaIC: State Space Models for High-Performance Learned Image Compression**
+
+- Paper: https://arxiv.org/abs/2503.12461
+- Code: https://arxiv.org/abs/2503.12461
 
 <a name="Embodied-AI"></a>
 
@@ -191,6 +210,21 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - Paper: https://arxiv.org/abs/2410.13360
 - Code: https://github.com/Hoar012/RAP-MLLM
 
+**BiomedCoOp: Learning to Prompt for Biomedical Vision-Language Models**
+
+- Paper: https://arxiv.org/abs/2411.15232
+- Code: https://github.com/HealthX-Lab/BiomedCoOp
+
+**FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression**
+
+- Paper: https://arxiv.org/abs/2412.04317
+- Code: https://github.com/codefanw/FlashSloth
+
+**MMRL: Multi-Modal Representation Learning for Vision-Language Models**
+
+- Paper: https://arxiv.org/abs/2503.08497
+- Code: https://github.com/yunncheng/MMRL
+
 
 <a name="LLM"></a>
 
@@ -213,10 +247,16 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - Code: https://github.com/yuanc3/Pose2ID
 
 
-AirRoom: Objects Matter in Room Reidentification
+**AirRoom: Objects Matter in Room Reidentification**
 
 - Project: https://sairlab.org/airroom/
 - Paper: https://arxiv.org/abs/2503.01130
+
+
+**IDEA: Inverted Text with Cooperative Deformable Aggregation for Multi-modal Object Re-Identification**
+
+- Paper: https://arxiv.org/abs/2503.10324
+- Code: https://github.com/924973292/IDEA
 
 
 
@@ -228,6 +268,11 @@ AirRoom: Objects Matter in Room Reidentification
 
 - Paper: https://arxiv.org/abs/2412.01199
 - Code: https://github.com/VainF/TinyFusion
+
+**DKDM: Data-Free Knowledge Distillation for Diffusion Models with Any Architecture**
+
+- Paper: https://arxiv.org/abs/2409.03550
+- Code: https://github.com/qianlong0502/DKDM
 
 <a name="Vision-Transformer"></a>
 
@@ -244,6 +289,15 @@ AirRoom: Objects Matter in Room Reidentification
 - Paper: https://arxiv.org/abs/2412.01256
 - Code: https://github.com/qunovo/NLPrompt
 
+**PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability**
+
+- Paper: https://arxiv.org/abs/2503.08481
+- Code: https://github.com/unira-zwj/PhysVLM
+
+**MMRL: Multi-Modal Representation Learning for Vision-Language Models**
+
+- Paper: https://arxiv.org/abs/2503.08497
+- Code: https://github.com/yunncheng/MMRL
 
 
 <a name="Object-Detection"></a>
@@ -286,6 +340,10 @@ AirRoom: Objects Matter in Room Reidentification
 
 # 医学图像分割(Medical Image Segmentation)
 
+**Test-Time Domain Generalization via Universe Learning: A Multi-Graph Matching Approach for Medical Image Segmentation**
+
+- Paper: https://arxiv.org/abs/2503.13012
+- Code: https://github.com/Yore0/TTDG-MGM
 
 
 <a name="Autonomous-Driving"></a>
@@ -302,6 +360,10 @@ AirRoom: Objects Matter in Room Reidentification
 
 # 3D点云(3D-Point-Cloud)
 
+**Unlocking Generalization Power in LiDAR Point Cloud Registration**
+
+- Paper: https://arxiv.org/abs/2503.10149
+- Code: https://github.com/peakpang/UGP
 
 
 <a name="3DOD"></a>
@@ -380,6 +442,14 @@ AirRoom: Objects Matter in Room Reidentification
 - Project: https://generative-photography.github.io/project/
 - Paper: https://arxiv.org/abs/2412.02168
 - Code: https://github.com/pandayuanyu/generative-photography
+
+
+**OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation**
+
+- Project Page: https://opening-benchmark.github.io/
+- Paper: https://arxiv.org/abs/2411.18499).
+- Code: https://github.com/LanceZPF/OpenING
+
 
 
 
@@ -502,6 +572,10 @@ AirRoom: Objects Matter in Room Reidentification
 - Paper: https://arxiv.org/abs/2501.10105
 - Code: https://github.com/2toinf/UniAct
 
+**PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability**
+
+- Paper: https://arxiv.org/abs/2503.08481
+- Code: https://github.com/unira-zwj/PhysVLM
 
 
 <a name="KD"></a>
@@ -553,6 +627,18 @@ AirRoom: Objects Matter in Room Reidentification
 - Paper: https://arxiv.org/abs/2410.12346
 - Code: https://github.com/lgz-0713/ReDDiT
 
+
+
+<a name="IC"></a>
+
+# 图像压缩(Image Compression)](#IC)
+
+**MambaIC: State Space Models for High-Performance Learned Image Compression**
+
+- Paper: https://arxiv.org/abs/2503.12461
+- Code: https://arxiv.org/abs/2503.12461
+
+
 <a name="SGG"></a>
 
 # 场景图生成(Scene Graph Generation)
@@ -574,6 +660,14 @@ AirRoom: Objects Matter in Room Reidentification
 
 # 视频质量评价(Video Quality Assessment)
 
+<a name="CS"></a>
+
+# 压缩感知(Compressive Sensing)
+
+**Using Powerful Prior Knowledge of Diffusion Model in Deep Unfolding Networks for Image Compressive Sensing**
+
+- Paper: https://arxiv.org/abs/2503.08429
+- Code: https://github.com/FengodChen/DMP-DUN-CVPR2025
 
 
 <a name="Datasets"></a>
@@ -587,5 +681,10 @@ AirRoom: Objects Matter in Room Reidentification
 
 # 其他(Others)
 
+
+**DTGBrepGen: A Novel B-rep Generative Model through Decoupling Topology and Geometry**
+
+- Paper: https://arxiv.org/abs/2503.13110
+- Code: https://github.com/jinli99/DTGBrepGen
 
   
