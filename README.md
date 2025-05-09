@@ -64,6 +64,7 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - [3D配准(3D Registration)](#3D-Registration)
 - [3D人体姿态估计(3D Human Pose Estimation)](#3D-Human-Pose-Estimation)
 - [3D人体Mesh估计(3D Human Mesh Estimation)](#3D-Human-Pose-Estimation)
+- [3D Visual Grounding(3D视觉定位)](#3DVG)
 - [医学图像(Medical Image)](#Medical-Image)
 - [图像生成(Image Generation)](#Image-Generation)
 - [视频生成(Video Generation)](#Video-Generation)
@@ -224,6 +225,11 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 
 - Paper: https://arxiv.org/abs/2503.08497
 - Code: https://github.com/yunncheng/MMRL
+
+**PAVE: Patching and Adapting Video Large Language Models**
+
+- Paper: https://arxiv.org/abs/2503.19794
+- Code: https://github.com/dragonlzm/PAVE
 
 
 <a name="LLM"></a>
@@ -406,7 +412,22 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 
 # 3D人体姿态估计(3D Human Pose Estimation)
 
+**Reconstructing Humans with a Biomechanically Accurate Skeleton**
 
+- Homepage: https://isshikihugh.github.io/HSMR/
+- Code: https://github.com/IsshikiHugh/HSMR
+
+<a name="3DVG"></a>
+
+#3D Visual Grounding(3D视觉定位)
+
+**ProxyTransformation: Preshaping Point Cloud Manifold With Proxy Attention For 3D Visual Grounding**
+
+- Homepage: https://pqh22.github.io/projects/ProxyTransformation/index.html
+
+- Code: https://github.com/pqh22/ProxyTransformation
+
+- Paper: https://arxiv.org/abs/2502.19247
 
 
 <a name="Image-Generation"></a>
@@ -656,6 +677,16 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - Code: https://github.com/Westlake-AGI-Lab/StyleStudio
 
 
+<a name="IQA"></a>
+
+# 图像质量评价(Image Quality Assessment)
+
+**Auto Cherry-Picker: Learning from High-quality Generative Data Driven by Language**
+
+- Homepage: https://yichengchen24.github.io/projects/autocherrypicker
+- Paper: https://arxiv.org/pdf/2406.20085
+- Code: https://github.com/yichengchen24/ACP
+
 <a name="Video-Quality-Assessment"></a>
 
 # 视频质量评价(Video Quality Assessment)
@@ -675,6 +706,10 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 # 数据集(Datasets)
 
 
+**Objaverse++: Curated 3D Object Dataset with Quality Annotations**
+
+- Paper: https://arxiv.org/abs/2504.07334
+- Code: https://github.com/TCXX/ObjaversePlusPlus
 
 
 <a name="Others"></a>
