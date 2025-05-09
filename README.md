@@ -126,6 +126,11 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - Paper: https://arxiv.org/abs/2405.16555
 - Code: https://github.com/MzeroMiko/vHeat
 
+**LSNet: See Large, Focus Small**
+
+- Paper: https://arxiv.org/abs/2503.23135
+- Code: https://github.com/jameslahm/lsnet
+
 
 <a name="CLIP"></a>
 
@@ -183,6 +188,10 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 
 # DETR
 
+**Mr. DETR: Instructive Multi-Route Training for Detection Transformers**
+
+- Paper: https://arxiv.org/abs/2412.10028
+- Code: https://github.com/Visual-AI/Mr.DETR
 
 
 <a name="Prompt"></a>
@@ -230,6 +239,11 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 
 - Paper: https://arxiv.org/abs/2503.19794
 - Code: https://github.com/dragonlzm/PAVE
+
+**AdaMMS: Model Merging for Heterogeneous Multimodal Large Language Models with Unsupervised Coefficient Optimization**
+
+- Paper: https://arxiv.org/abs/2503.23733
+- Code: https://github.com/THUNLP-MT/AdaMMS
 
 
 <a name="LLM"></a>
@@ -316,6 +330,11 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - Paper: https://arxiv.org/abs/2501.18954
 - Code：https://github.com/iSEE-Laboratory/LLMDet
 
+**Mr. DETR: Instructive Multi-Route Training for Detection Transformers**
+
+- Paper: https://arxiv.org/abs/2412.10028
+- Code: https://github.com/Visual-AI/Mr.DETR
+
 
 <a name="Anomaly-Detection"></a>
 
@@ -342,6 +361,11 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 
 # 医学图像(Medical Image)
 
+
+**BrainMVP: Multi-modal Vision Pre-training for Medical Image Analysis**
+
+- Paper: https://arxiv.org/abs/2410.10604
+- Code: https://github.com/shaohao011/BrainMVP
 
 
 # 医学图像分割(Medical Image Segmentation)
@@ -722,4 +746,15 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - Paper: https://arxiv.org/abs/2503.13110
 - Code: https://github.com/jinli99/DTGBrepGen
 
+
+**Analyzing the Synthetic-to-Real Domain Gap in 3D Hand Pose Estimation**
+
+- Paper: https://arxiv.org/abs/2503.19307
+- Code: https://github.com/delaprada/HandSynthesis.git
+
+**EVOS: Efficient Implicit Neural Training via EVOlutionary Selector**
+
+- Homepage: https://weixiang-zhang.github.io/proj-evos/
+- Paper: https://arxiv.org/abs/2412.10153
+- Code: https://github.com/zwx-open/EVOS-INR
   
