@@ -294,6 +294,13 @@ CVPR 2025 decisions are now available on OpenReview！22.1% = 2878 / 13008
 - Paper: https://arxiv.org/abs/2409.03550
 - Code: https://github.com/qianlong0502/DKDM
 
+**Tiled Diffusion**
+
+- Homepage: https://madaror.github.io/tiled-diffusion.github.io/
+- Paper: https://arxiv.org/abs/2412.15185
+- Code: https://github.com/madaror/tiled-diffusion
+
+
 <a name="Vision-Transformer"></a>
 
 # Vision Transformer
